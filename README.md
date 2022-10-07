@@ -55,6 +55,7 @@ Users can also view, comment and like posts created by their friends.
 
 ## Wireframe
 ![plot](Wireframe.png)
+#### Page Layout
 ![plot](Pagelayout.png)
 ## User Stories
 - As a user, I want to create a page for my pet.
