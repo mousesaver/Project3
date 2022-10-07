@@ -18,10 +18,6 @@ Users can also view, comment and like posts created by their friends.
 - REACT
 - MongoDB
 - Mongoose
-- bcrypto
-- JWT
-
-
 
 
 ## ERDs
@@ -59,7 +55,7 @@ Users can also view, comment and like posts created by their friends.
 
 ## Wireframe
 ![plot](Wireframe.png)
-
+![plot](Pagelayout.png)
 ## User Stories
 - As a user, I want to create a page for my pet.
 - As a user, I want to create posts on my pets account.
